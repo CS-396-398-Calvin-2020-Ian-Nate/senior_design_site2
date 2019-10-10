@@ -4,4 +4,7 @@
 contact info/bio here...
 
 ### Nate Herder
-contact info/bio here...
+From: Portage, Michigan
+**Contact:**
+[LinkedIn](https://www.linkedin.com/in/nate-herder-3a361b150/)
+[nateherder@gmail.com](mailto:nateherder@gmail.com)
