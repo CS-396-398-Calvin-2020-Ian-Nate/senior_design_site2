@@ -30,14 +30,18 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
-      logoHomeLink = "/"
+      logoText = "Calvin Senior Design 2020"
+      logoHomeLink = "/home"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
     [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/home"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
