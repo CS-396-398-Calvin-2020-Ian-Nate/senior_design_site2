@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5

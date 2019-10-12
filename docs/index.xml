@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello Friend</title>
-    <link>/</link>
+    <link>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/</link>
     <description>Recent content on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/about/</guid>
       <description>About Ian Adams contact info/bio here&amp;hellip;
-Nate Herder contact info/bio here&amp;hellip;</description>
+Nate Herder From: Portage, Michigan Contact: LinkedIn nateherder@gmail.com</description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/</link>
+      <link>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/</guid>
+      <guid>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/home/</guid>
       <description>TSGL &amp;amp; TSAL Ian Adams &amp;amp; Nate Herder project description here&amp;hellip;
 TSGL - A thread-safe graphics library perfect for drawing graphics. You can do a wide variety of things with TSGL, including: image manipulation and rendering (.bmp, .jpeg, and .png image formats supported), 2D polygon drawing (rectangles, circles, triangles, etc.), text rendering, animations with keyboard and/or mouse events, and much more. All drawing and rendering is done with threads and in parallel.</description>
     </item>
