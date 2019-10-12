@@ -16,7 +16,7 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
+    title = "Senior Design 2020"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""

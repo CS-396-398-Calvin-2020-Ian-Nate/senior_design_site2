@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>Senior Design 2020</title>
     <link>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/</link>
-    <description>Recent content on Hello Friend</description>
+    <description>Recent content on Senior Design 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,7 +17,8 @@
       
       <guid>https://cs-396-398-calvin-2020-ian-nate.github.io/senior_design_website/about/</guid>
       <description>About Ian Adams contact info/bio here&amp;hellip;
-Nate Herder From: Portage, Michigan Contact: LinkedIn nateherder@gmail.com</description>
+Nate Herder From: Portage, Michigan
+Contact: LinkedIn, nateherder@gmail.com</description>
     </item>
     
     <item>
